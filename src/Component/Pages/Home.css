@@ -1,0 +1,161 @@
+.navbar-brand{
+    font-weight :bolder;
+    font-size:40px
+}
+.btn1{
+    border-radius: 30px;
+    border: none;
+}
+.btn-lg{
+background-color: orange;
+}
+.bg-img{
+    background-image: url('https://img.freepik.com/free-vector/public-transport-stop-autobus-vector-bus-stop-transport-public-service-illustration_102902-3267.jpg?w=1380');    
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+}
+.hme{
+    border-radius: 30px;
+}
+h1{
+    margin-top: 100px;
+}
+.seccrd{
+    padding:30px;
+    margin: 0px;
+}
+.covidcrd{
+    border: none;
+}
+
+.imgfrt{
+    border: none;
+}
+.imgfrt:hover{
+    z-index: 1;
+    box-shadow: 0 8px 50px rgba(0, 0, 0,0.2);
+    border: none;
+   
+}
+.crd4{
+    border: none;
+}
+
+   
+.text-center{
+    border: none;
+}
+.fbtn{
+    border: none;
+    margin-top: 10px;
+    margin-right: 50px;
+    background-color: cornsilk;
+}
+.fbtn:hover{
+    background-color: orange;
+}
+.bg-muted{
+    background-color: cornsilk;
+}
+.top{
+    text-decoration: none;
+    color: black;
+    margin: 2px;
+   }
+   .top:hover{
+       color: red;
+        text-shadow: 10px 8px 50px rgb(0, 0, 0);
+   }
+
+   .log{
+       width: 60%;
+       margin-top: 10%;
+       margin-bottom: 10%;
+       margin-left: auto;
+       margin-right: auto;
+   }
+   .log1{
+      
+       background-color: aqua;
+       width: 40%;
+       margin-top: 20%;
+       margin-bottom: 20%;
+       margin-left: auto;
+       margin-right: auto;
+   
+   }
+   .log2{
+      text-align: center;
+      margin-top: 20px;
+      font-weight: bolder;
+      font-family: Arial, Helvetica, sans-serif;
+   }
+   .blog{
+      
+       font-size: large;
+       border-radius: none;
+      
+
+   }
+   .reg1{
+       background-color: rgb(118, 206, 176);
+       width: 50%;
+       margin-top: 10px;
+       margin-bottom: 30px;
+       margin-left: auto;
+       margin-right: auto;
+       
+   }
+   .reg2{
+       background-image: url(https://t3.ftcdn.net/jpg/04/34/31/50/240_F_434315086_mo8YlRPpWrJ4DjihNvfgEy214MToqkeT.jpg);
+   }
+   .lerr{
+       color: red;
+   }
+   /* .button-right{
+       display: flex;
+       justify-content: flex-end;
+   }
+   .navbar-left{
+      
+    background-color: rgb(67, 67, 156);
+   color: white;
+   }
+   .btn-sm:hover{
+       background-color: rgb(179, 112, 112);
+       color: rgb(239, 239, 245);
+   }
+   .btn-sm{
+       color: white;
+   }
+   .nav-link{
+       color: white;
+   }
+   a:hover{
+    color: rgb(255, 245, 245) !important;
+   }
+   */
+  /* offer css */
+  .offer{
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  .offerhtags{
+      font-weight: bold;
+      margin-bottom: 20px;
+      
+      
+  }
+  .ofercrdhtags{
+      font-size: 17px;
+  }
+ .offercrd{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.offerbtn{
+    background-color: lightgrey;
+    color: blue;
+}
+.offerimg{
+    border-radius: 10px;
+}
